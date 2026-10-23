@@ -1,4 +1,6 @@
-package ro.academyplus.avaj.simulator;
+package fr.delmath.avaj.simulator;
+
+import fr.delmath.avaj.simulator.utils.WeatherProvider;
 
 public class WeatherTower extends Tower {
 

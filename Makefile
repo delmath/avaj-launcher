@@ -3,7 +3,7 @@ all:
 	javac @sources.txt
 
 run: all
-	java ro.academyplus.avaj.simulator.Simulator scenario.txt
+	java fr.delmath.avaj.simulator.Simulator scenario.txt
 
 clean:
 	rm -f sources.txt

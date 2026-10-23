@@ -1,4 +1,4 @@
-package ro.academyplus.avaj.simulator;
+package fr.delmath.avaj.simulator.exception;
 
 public class InvalidSimulationException extends Exception {
 
